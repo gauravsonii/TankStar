@@ -30,7 +30,3 @@ User can launch the game by executing the ```run``` which can be found in gradle
 - Hold ```UP``` arrow key while shooting bullets to decrease the angle.
 
 ---
-
-# Contributors :
-
-- [Gaurav Soni](https://github.com/gauravsonii)
