@@ -1,0 +1,19 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "propertyTypes": [
+    ]
+}
+
+
+git init
+git add -A
+git commit -m "first commit"
+git branch -M MAIN
+git remote add origin https://github.com/gauravsonii/TankStar.git
+git push -u origin MAIN

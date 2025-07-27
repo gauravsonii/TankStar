@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/NewTerrain.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Map.tsx": {
+            "scaleInDock": 0.3315,
+            "scaleInEditor": 0.97
+        },
+        "assets/NewTerrain.tmx": {
+            "scale": 0.57,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 547.3684210526316,
+                "y": 319.2982456140351
+            }
+        }
+    },
+    "last.imagePath": "/Users/gauravsoni/Developer/TankStarsGame/assets",
+    "map.height": 72,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 10,
+    "map.tileWidth": 10,
+    "map.width": 128,
+    "openFiles": [
+        "assets/NewTerrain.tmx",
+        "Map.tsx"
+    ],
+    "project": "Terrain.tiled-project",
+    "recentFiles": [
+        "Map.tsx",
+        "assets/NewTerrain.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 10,
+        "width": 10
+    }
+}
